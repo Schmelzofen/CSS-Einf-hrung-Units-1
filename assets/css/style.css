@@ -10,12 +10,19 @@ h2{
     background-color:lightgrey;
 }
 
+article{
+    border: 0.1cm solid black;
+    margin: 0.3cm;
+    background-color: lightgrey;
+}
+
 p{
     font-size: 7mm;
 }
 
 ul li:first-child{
     font-size: 0.7cm;
+    background-color: white;
 }
 
 ul li:nth-of-type(2){
@@ -24,4 +31,9 @@ ul li:nth-of-type(2){
 
 ul li:nth-of-type(3){
     font-size: 1.2cm;
+    background-color: white;
+}
+
+h3{
+    font-size: 2.5cm;
 }
