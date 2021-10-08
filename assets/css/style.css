@@ -1,0 +1,27 @@
+section{
+    border: 0.1cm solid black;
+    border-radius: 0.4cm;
+}
+
+h2{
+    font-size: 15mm;
+    text-shadow: 1.5mm 1.5mm grey;
+    font-family: helvetica;
+    background-color:lightgrey;
+}
+
+p{
+    font-size: 7mm;
+}
+
+ul li:first-child{
+    font-size: 0.7cm;
+}
+
+ul li:nth-of-type(2){
+    font-size: 1cm;
+}
+
+ul li:nth-of-type(3){
+    font-size: 1.2cm;
+}
